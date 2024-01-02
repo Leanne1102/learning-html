@@ -1,0 +1,52 @@
+.dog{
+    height: 600px;
+    width: 600px;
+    background-color: blueviolet;
+    padding-top: 20px;
+    margin: auto;
+
+}
+.cat{
+    height: 500px;
+    width: 500px;
+    background-color:white;
+    padding-top: 20px;
+    margin: auto;
+}
+.pig{
+    height: 400px;
+    width: 400px;
+    background-color: blueviolet;
+    padding-top:20px;
+    margin: auto;
+}
+.cow{
+    height:300px;
+    width:300px;
+    background-color:white;
+    padding-top: 20px;
+    margin: auto;
+    }
+.rat{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    padding-top:20px;
+    margin: auto;
+    }
+    .ant{
+        height: 100px;
+        width: 100px;
+        background-color: white;
+        padding-top: 20px;
+        margin: auto;
+    }
+    .bird{
+        height: 50px;
+        width: 50px;
+        background-color: blueviolet;
+        margin: auto;
+    }
+    
+
+    
